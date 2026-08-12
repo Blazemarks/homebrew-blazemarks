@@ -15,22 +15,22 @@ class Blazemarks < Formula
   on_macos do
     on_arm do
       url "https://github.com/Blazemarks/blazemarks/releases/download/v0.1.0/blazemarks-0.1.0-macos-arm64.tar.gz"
-      sha256 "f1e1c4020b2c5699ff55a2607d2244cc0a120065043dde02dfe6846060b12a64"
+      sha256 "1b110c3e5a2fd7c424e2966628c902694b3bb5084dd61337707ace13223611c7"
     end
     on_intel do
       url "https://github.com/Blazemarks/blazemarks/releases/download/v0.1.0/blazemarks-0.1.0-macos-amd64.tar.gz"
-      sha256 "5cb997d44e3d518aa24490ca295e88fbdb45ec03d3b85b07e0fc525e74a3448b"
+      sha256 "5886854b14355b14e7f6cdf1074e960e8a78090a64fc8903dff810e4c8c69860"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/Blazemarks/blazemarks/releases/download/v0.1.0/blazemarks-0.1.0-linux-arm64.tar.gz"
-      sha256 "fe4c21b2dc05736efd2104ee28ac1e196ed9174c2b466ebe25a2f85ed2a95b03"
+      sha256 "6909b83359118f556b2c7e816075ae218137d1acc1639ba029c3e45f4b978880"
     end
     on_intel do
       url "https://github.com/Blazemarks/blazemarks/releases/download/v0.1.0/blazemarks-0.1.0-linux-amd64.tar.gz"
-      sha256 "9a30b7599875bf4d45af3c9528bdea5634e2b3cda1780d63b0723d0601e8e5a9"
+      sha256 "d8e491fa3d2ecd8bdf4b2c8281d229a3917daa19aa188acf819368266e631646"
     end
   end
 
